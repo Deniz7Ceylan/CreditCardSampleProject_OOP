@@ -1,0 +1,17 @@
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\bin\Debug\net6.0-windows\CreditCardSampleProject_OOP.exe
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\bin\Debug\net6.0-windows\CreditCardSampleProject_OOP.deps.json
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\bin\Debug\net6.0-windows\CreditCardSampleProject_OOP.runtimeconfig.json
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\bin\Debug\net6.0-windows\CreditCardSampleProject_OOP.dll
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\bin\Debug\net6.0-windows\CreditCardSampleProject_OOP.pdb
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.Form1.resources
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.AssemblyInfo.cs
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.dll
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\refint\CreditCardSampleProject_OOP.dll
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.pdb
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\CreditCardSampleProject_OOP.genruntimeconfig.cache
+C:\Users\deniz\source\repos\CreditCardSampleProject_OOP\obj\Debug\net6.0-windows\ref\CreditCardSampleProject_OOP.dll
